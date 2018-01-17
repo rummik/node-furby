@@ -1,0 +1,25 @@
+{
+  "name": "furby",
+  "version": "0.2.0",
+  "description": "An animation library for use with 2012 Furby skeletons",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rummik/node-furby.git"
+  },
+  "keywords": [
+    "furby",
+    "gpio",
+    "skeleton",
+    "animation"
+  ],
+  "author": "Kimberly Zick <k@9k1.us> (rummik)",
+  "license": "MPL-2.0",
+  "bugs": {
+    "url": "https://github.com/rummik/node-furby/issues"
+  },
+  "homepage": "https://github.com/rummik/node-furby#readme"
+}
